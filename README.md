@@ -1,6 +1,9 @@
-# State-Political-Contribution-Search
-This is an Excel-based tool that will search names for state political contribution. The states available are shown as part of the selection pane before the search starts. Once completed, the results will be saved down via a PDF file in the location you specify.
+# Excel-Based Tool for State Political Contribution Searches
 
-In the Excel file, add as many names to search. There are fields for date ranges and minimum / maximum amounts to search.
+Are you looking for a reliable way to search for state political contributions? Look no further than this Excel-based tool. With this tool, you can easily search for names of political contributors in states of your choice, and save the results in a PDF file in the location of your choosing.
 
-No personal information is being saved or sent. All data is housed directly in the Excel file.
+This tool allows you to add as many names as you need to search, and specify date ranges and minimum/maximum amounts to search for. The selection pane displays all available states before the search starts, making it easy to select the state you're interested in.
+
+No personal information is saved or sent, and all data is housed directly in the Excel file.
+
+Try this Excel-based tool today and take the first step towards comprehensive and accurate state political contribution searches.
